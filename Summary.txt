@@ -1,0 +1,9 @@
+===================================== DAY 01=============================
+I completed one of the mision have been doing on Dataquest.
+In this mission, I learned how to:
+
+...Remove unwanted characters to "clean" data stored as strings.
+...Make data more uniform by replacing characters and modifying the case.
+...Handle errors during data cleaning.
+...Parse and clean complex strings.
+...In the next mission, we're going to continue working with the MoMA data set as we learn the basics of analyzing data in Python.
