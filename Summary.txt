@@ -7,3 +7,15 @@ In this mission, I learned how to:
 ...Handle errors during data cleaning.
 ...Parse and clean complex strings.
 ...In the next mission, we're going to continue working with the MoMA data set as we learn the basics of analyzing data in Python.
+
+====================================DAY 02=======================================
+Today I completed another mission on Dataquest.
+Things I learnt:
+
+...Create logic to analyze artist age data.
+...Create frequency table dictionaries.
+...Easily insert values into strings to summarize the results of our analysis.
+...Format numbers inside of strings to make things easier to understand.
+In the next mission, we'll learn about one of the most important core principles for working in Python: object-oriented programming (I will put in my best this time to sink the concept of OOP).
+
+
