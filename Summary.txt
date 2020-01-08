@@ -18,4 +18,11 @@ Things I learnt:
 ...Format numbers inside of strings to make things easier to understand.
 In the next mission, we'll learn about one of the most important core principles for working in Python: object-oriented programming (I will put in my best this time to sink the concept of OOP).
 
+================================= DAY 03========================================
+I was able to learn the following today:
+
+...What objects, classes, methods, and attributes are.
+...How to create a class and instantiate a new object.
+...How to store attributes inside objects using the init method.
+...How to create methods to transform data and update attributes.
 
