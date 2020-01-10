@@ -31,3 +31,6 @@ Dataquest got me working with Date and time in Python today and I learned the fo
 ...Thinking about the maximum and minimum appointment time values, and exploring the data to explain why these values are larger than you might expect.
 ...Find the visitor who spent the most amount of time at the White House.
 ...Finding who visited the White House the most each month.
+
+==================================DAY 05===============================
+Today have been working on a Project on Dataquest; Exploring Hackers News
