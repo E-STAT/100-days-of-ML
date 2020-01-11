@@ -34,3 +34,13 @@ Dataquest got me working with Date and time in Python today and I learned the fo
 
 ==================================DAY 05===============================
 Today have been working on a Project on Dataquest; Exploring Hackers News
+
+=================================== DAY 06 ==============================
+Saturday is always a super busy day but this challenge got me practising and revising some introduction to Numpy as I continue exploring the Hackers News Data.
+Here are the things I learned today:
+
+...How vectorization makes our code faster.
+...About n-dimensional arrays, and NumPy's ndarrays.
+...How to select specific items, rows, columns, 1D slices, and 2D slices from ndarrays.
+...How to apply simple calculations to entire ndarrays.
+...How to use vectorized methods to perform calculations across either axis of ndarrays.
