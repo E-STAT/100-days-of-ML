@@ -44,3 +44,13 @@ Here are the things I learned today:
 ...How to select specific items, rows, columns, 1D slices, and 2D slices from ndarrays.
 ...How to apply simple calculations to entire ndarrays.
 ...How to use vectorized methods to perform calculations across either axis of ndarrays.
+
+================================== DAY 07 ========================================
+Today I practised Boolean Indexing with numpy and I learned the following;
+
+...How to use numpy.genfromtxt() to read in an ndarray.
+...About NaN values.
+...What a boolean array is, and how to create one.
+...How to use boolean indexing to filter values in one and two-dimensional ndarrays.
+...How to assign one or more new values to an ndarray based on their locations.
+...How to assign one or more new values to an ndarray based on their values.
