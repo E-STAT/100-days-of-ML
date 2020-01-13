@@ -54,3 +54,9 @@ Today I practised Boolean Indexing with numpy and I learned the following;
 ...How to use boolean indexing to filter values in one and two-dimensional ndarrays.
 ...How to assign one or more new values to an ndarray based on their locations.
 ...How to assign one or more new values to an ndarray based on their values.
+
+================================DAY 08 =====================================
+Day 08 of 100
+Today;
+... I taught a newbie some Data Science Basic theory
+... I started a kaggle competition and keeping up with my dataquest tutorials
