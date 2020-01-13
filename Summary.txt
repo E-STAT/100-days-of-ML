@@ -60,3 +60,7 @@ Day 08 of 100
 Today;
 ... I taught a newbie some Data Science Basic theory
 ... I started a kaggle competition and keeping up with my dataquest tutorials
+Completed another Dataquest mission and I learnt the following:
+...How pandas and NumPy combine to make working with data easier.
+...About the two core pandas types: series and dataframes.
+...How to select data from pandas objects using axis labels.
