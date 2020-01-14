@@ -68,3 +68,7 @@ Completed another Dataquest mission and I learnt the following:
 ===============================DAY 09 =====================================
 Today;
 .... I taught 2 newbie some Python programming basics and I still try keeping up with my Dataquest tutorials. Am on 'Exploring Data with Pandas'
+...How to select data from pandas objects using boolean arrays.
+...How to assign data using labels and boolean arrays.
+...How to create new rows and columns in pandas.
+...Many new methods to make data analysis easier in pandas.
