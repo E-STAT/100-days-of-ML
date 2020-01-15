@@ -72,3 +72,8 @@ Today;
 ...How to assign data using labels and boolean arrays.
 ...How to create new rows and columns in pandas.
 ...Many new methods to make data analysis easier in pandas.
+
+============================== DAY 10 ====================================
+Today I taught two newbie string indexing, while loops and for loop
+Also, I continued my dataquest mission 'Exploring Data with Pandas: Intermediate
+And I did some research on the kaggle competition I started
