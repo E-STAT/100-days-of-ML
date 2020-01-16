@@ -30,4 +30,4 @@ I was able to learn the following today:
 Dataquest got me working with Date and time in Python today and I learned the following:
 ...Thinking about the maximum and minimum appointment time values, and exploring the data to explain why these values are larger than you might expect.
 ...Find the visitor who spent the most amount of time at the White House.
-...Finding who visited the White House the most each month.
+...Finding who visited the White House the most each month..
