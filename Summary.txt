@@ -77,3 +77,7 @@ Today;
 Today I taught two newbie string indexing, while loops and for loop
 Also, I continued my dataquest mission 'Exploring Data with Pandas: Intermediate
 And I did some research on the kaggle competition I started
+
+============================== DAY 11====================================
+Today again I taught my students how to define functions and lambda expressions in python
+And I continued my Exploring Data with Pandas: intermediate
