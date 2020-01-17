@@ -30,4 +30,60 @@ I was able to learn the following today:
 Dataquest got me working with Date and time in Python today and I learned the following:
 ...Thinking about the maximum and minimum appointment time values, and exploring the data to explain why these values are larger than you might expect.
 ...Find the visitor who spent the most amount of time at the White House.
-...Finding who visited the White House the most each month..
+...Finding who visited the White House the most each month.
+
+==================================DAY 05===============================
+Today have been working on a Project on Dataquest; Exploring Hackers News
+
+=================================== DAY 06 ==============================
+Saturday is always a super busy day but this challenge got me practising and revising some introduction to Numpy as I continue exploring the Hackers News Data.
+Here are the things I learned today:
+
+...How vectorization makes our code faster.
+...About n-dimensional arrays, and NumPy's ndarrays.
+...How to select specific items, rows, columns, 1D slices, and 2D slices from ndarrays.
+...How to apply simple calculations to entire ndarrays.
+...How to use vectorized methods to perform calculations across either axis of ndarrays.
+
+================================== DAY 07 ========================================
+Today I practised Boolean Indexing with numpy and I learned the following;
+
+...How to use numpy.genfromtxt() to read in an ndarray.
+...About NaN values.
+...What a boolean array is, and how to create one.
+...How to use boolean indexing to filter values in one and two-dimensional ndarrays.
+...How to assign one or more new values to an ndarray based on their locations.
+...How to assign one or more new values to an ndarray based on their values.
+
+================================DAY 08 =====================================
+Day 08 of 100
+Today;
+... I taught a newbie some Data Science Basic theory
+... I started a kaggle competition and keeping up with my dataquest tutorials
+Completed another Dataquest mission and I learnt the following:
+...How pandas and NumPy combine to make working with data easier.
+...About the two core pandas types: series and dataframes.
+...How to select data from pandas objects using axis labels.
+
+===============================DAY 09 =====================================
+Today;
+.... I taught 2 newbie some Python programming basics and I still try keeping up with my Dataquest tutorials. Am on 'Exploring Data with Pandas'
+...How to select data from pandas objects using boolean arrays.
+...How to assign data using labels and boolean arrays.
+...How to create new rows and columns in pandas.
+...Many new methods to make data analysis easier in pandas.
+
+============================== DAY 10 ====================================
+Today I taught two newbie string indexing, while loops and for loop
+Also, I continued my dataquest mission 'Exploring Data with Pandas: Intermediate
+And I did some research on the kaggle competition I started
+
+============================== DAY 11====================================
+Today again I taught my students how to define functions and lambda expressions in python
+And I continued my Exploring Data with Pandas: intermediate
+
+=============================== DAY 12=================================
+What a busy week doing more of teaching:
+I thought Numerical Python (numpy) today and we did have a great time together
+
+Not moving fast as I do with dataquest but I still keep up with 'Exploring Data with Pandas: Intermediate (Shld have finished!)
