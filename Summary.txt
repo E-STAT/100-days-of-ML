@@ -87,3 +87,7 @@ What a busy week doing more of teaching:
 I thought Numerical Python (numpy) today and we did have a great time together
 
 Not moving fast as I do with dataquest but I still keep up with 'Exploring Data with Pandas: Intermediate (Shld have finished!)
+
+===============================DAY 13===================================
+oday I attended AISaturdaysIB  meetup and I read some research papers on the kaggle datathon problem..
+
