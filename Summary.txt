@@ -95,4 +95,7 @@ Today I attended AISaturdaysIB  meetup and I read some research papers on the ka
 Today I did some work on some hackathon have been doing on kaggle and zindi..
 
 Nice to see little difference between my local CV and the Public leaderboard score.
+============================= DAY 15 ======================================
+I took my students through some Pandas methods and commit to github using gitbash
 
+Personally, I did conclude my prolonged dataquest mission
