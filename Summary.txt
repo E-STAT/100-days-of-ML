@@ -99,3 +99,12 @@ Nice to see little difference between my local CV and the Public leaderboard sco
 I took my students through some Pandas methods and commit to github using gitbash
 
 Personally, I did conclude my prolonged dataquest mission
+
+I learnt :
+...Select columns, rows and individual items using their integer location.
+...Use pd.read_csv() to read CSV files in pandas.
+...Work with integer axis labels.
+...How to use pandas methods to produce boolean arrays.
+...Use boolean operators to combine boolean comparisons to perform more complex analysis.
+...Use index labels to align data.
+...Use aggregation to perform advanced analysis using loops.
