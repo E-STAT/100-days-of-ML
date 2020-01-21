@@ -108,3 +108,10 @@ I learnt :
 ...Use boolean operators to combine boolean comparisons to perform more complex analysis.
 ...Use index labels to align data.
 ...Use aggregation to perform advanced analysis using loops.
+============================ DAY 16 =======================================
+I taught Visualization using matplotlib and seaborn with two of my students...
+
+I continued with Dataquest 'Data Cleaning Basics' mission 
+
+
+
