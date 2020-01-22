@@ -113,5 +113,10 @@ I taught Visualization using matplotlib and seaborn with two of my students...
 
 I continued with Dataquest 'Data Cleaning Basics' mission 
 
+============================ DAY 17=========================
+Today I took my students through how to do Exploratory Data Analysis... We explored supermarket sales data
+
+Also, I did some missions on Dataquest; 'Data Cleaning'
+
 
 
