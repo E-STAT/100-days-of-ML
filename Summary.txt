@@ -123,5 +123,30 @@ Today I started 'Exploring ebay car sales' project on dataquest
 
 I made some research on a blog post I have in mind to write soon.... 
 
+============================ DAY 19 ==========================
+
+I walked my student through fitting a simple Classification model with Titanic dataset
+
+Continued my dataquest project 'exploring ebay car sales'
+
+============================= DAY 20 ======================
+
+Weekends are for hackathons.
+I worked on an ongoing hackathon on kaggle....
+
+Watch out for my submission
+
+========================== DAY 21 =======================
+Still on kaggle this weekend
+
+I made a submission on WIDS kaggle competition 
+
+Hoping to improve well.... 0.89....
+
+=========================== DAY 22 ==========================
+Today:
+... I taught my student how to build a simple Linear regression problem
+... I battle with a bug in my code but yet to know what's hidden
+.... Embarked on data visualization mission on dataquest... moving forward
 
 
