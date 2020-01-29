@@ -155,3 +155,6 @@ Completed Line Chart mission on dataquest with the following gains:
 we looked at a sample of a dataset on unemployment as a table and noted some observations.
 We introduced line charts and witnessed how a visual representation of the same data sample allowed us to surface the same observations quickly.
 Finally, we explored the basics of the pyplot module and learned how to create and customize a line chart that visualized the sample.
+
+=========================== DAY 24 ============================
+Today I have finished 'Multiple plot' missioin on dataquest
