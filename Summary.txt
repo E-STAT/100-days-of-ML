@@ -157,4 +157,10 @@ We introduced line charts and witnessed how a visual representation of the same 
 Finally, we explored the basics of the pyplot module and learned how to create and customize a line chart that visualized the sample.
 
 =========================== DAY 24 ============================
-Today I have finished 'Multiple plot' missioin on dataquest
+
+What a day!
+I finished missions on dataquest
+
+Also, I was able to improve my model to 0.90301 on kaggle
+
+Catboost stood out
