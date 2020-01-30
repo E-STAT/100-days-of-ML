@@ -164,3 +164,11 @@ I finished missions on dataquest
 Also, I was able to improve my model to 0.90301 on kaggle
 
 Catboost stood out
+
+========================== DAY 25 ==================
+
+I didn't do much today caused am a bit illl..... Had to stay Indoor to rest but this challenge made stay with my laptop 
+
+I worked on a client's data.... Econometrics: Panel regression 
+
+Also did some kaggling...
