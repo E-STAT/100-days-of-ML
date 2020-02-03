@@ -178,3 +178,7 @@ Also did some kaggling...
 Technically, did nothing much but I stayed a little with kaggle today....
 
 Can't wait to come out of this yeye illness.... I'm strong!!..
+
+=================== DAY 27 ===========================
+... Worked on a clients work; panel regression (unit root, fixed effects models, random effects models, Pooled OLS, Hausman's test and the likes) with eviews
+... I finished a mission on dataquest
