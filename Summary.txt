@@ -182,3 +182,7 @@ Can't wait to come out of this yeye illness.... I'm strong!!..
 =================== DAY 27 ===========================
 ... Worked on a clients work; panel regression (unit root, fixed effects models, random effects models, Pooled OLS, Hausman's test and the likes) with eviews
 ... I finished a mission on dataquest
+
+================= DAY 28 ===================
+.... I finished another mission on dataquest
+.... Working on RFCEV (Recursive feature importance on Catboost model) for my kaggle hackathon); model running since morning
