@@ -186,3 +186,7 @@ Can't wait to come out of this yeye illness.... I'm strong!!..
 ================= DAY 28 ===================
 .... I finished another mission on dataquest
 .... Working on RFCEV (Recursive feature importance on Catboost model) for my kaggle hackathon); model running since morning
+
+================== DAY 29 ==================
+... Today I stayed so much with kaggle and improved my model from 090301 to 0.90593
+... I met a new friend (a student in india) that works on a project have been thinking of executing.... This really made my day
